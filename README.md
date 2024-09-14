@@ -1,4 +1,4 @@
-### Intresado en R, análisis y visualización de datos
+### Interesado en R, análisis y visualización de datos
 
 <!--
 **jesbrz/jesbrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
